@@ -1,6 +1,10 @@
 
-window.onload = () => {
-
 mainGame.init('myCanvas')
+    
+mainGame.startGame()
+    
+  
 
-}
+
+
+
